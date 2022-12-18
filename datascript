@@ -1,6 +1,9 @@
 MatikanBot = false
 
+Istirahat = true
 JamTidur = {3, 15, 21}
+DelayTidur = 60
+
 targetinfo = 5
 TilePNB = 5
 InfoLoop = true
