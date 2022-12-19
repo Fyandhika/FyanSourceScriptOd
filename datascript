@@ -22,5 +22,5 @@ else
 end
 
 Istirahat = true
-JamTidur = {3, 14, 16, 21}
-DelayTidur = 60
+JamTidur = {14, 21}
+DelayTidur = 120
