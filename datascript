@@ -13,12 +13,12 @@ if getPing() < 200 then
     delayworld = 3000 -- DELAY MASUK DOOR
     delaydrop = 300 -- JEDA DROP PER ITEM
 else
-    delayht = 70 -- DELAY HARVEST
-    delayplant = 50 -- DELAY PLANT
+    delayht = 100 -- DELAY HARVEST
+    delayplant = 75 -- DELAY PLANT
     delaypnb = 165 -- DELAY PNB
     delayplace = 125 -- DELAY PLACE
-    delayworld = 3000 -- DELAY MASUK DOOR
-    delaydrop = 300 -- JEDA DROP PER ITEM
+    delayworld = 4000 -- DELAY MASUK DOOR
+    delaydrop = 500 -- JEDA DROP PER ITEM
 end
 
 Istirahat = true
