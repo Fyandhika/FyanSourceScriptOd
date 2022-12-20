@@ -23,4 +23,4 @@ end
 
 Istirahat = true
 JamTidur = {13, 21}
-DelayTidur = 150
+DelayTidur = 120
