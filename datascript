@@ -7,5 +7,5 @@ InfoLoop = true
 TakePickaxe = true
 
 Istirahat = true
-JamTidur = {12, 20}
+JamTidur = {12, 17}
 DelayTidur = 90
