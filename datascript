@@ -1,8 +1,9 @@
 MatikanBot = false
 
+RingkasWorldName = false
 targetinfo = 3
 TilePNB = 5
-InfoLoop = false
+InfoLoop = true
 TakePickaxe = true
 
 Istirahat = true
