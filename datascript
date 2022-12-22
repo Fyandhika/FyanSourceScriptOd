@@ -2,7 +2,7 @@ MatikanBot = false
 
 targetinfo = 3
 TilePNB = 5
-InfoLoop = true
+InfoLoop = false
 TakePickaxe = true
 
 Istirahat = true
