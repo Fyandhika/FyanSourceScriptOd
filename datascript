@@ -2,7 +2,7 @@ MatikanBot = false
 
 RingkasWorldName = false
 targetinfo = 3
-TilePNB = 3
+TilePNB = 5
 InfoLoop = true
 TakePickaxe = true
 
