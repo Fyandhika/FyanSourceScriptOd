@@ -1,11 +1,11 @@
 MatikanBot = false
 
-RingkasWorldName = false
+RingkasWorldName = true
 targetinfo = 3
-TilePNB = 5
+TilePNB = 3
 InfoLoop = true
 TakePickaxe = true
 
 Istirahat = true
-JamTidur = {13, 17}
-DelayTidur = 90
+JamTidur = {13, 17, 21}
+DelayTidur = 60
