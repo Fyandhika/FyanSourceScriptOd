@@ -11,6 +11,6 @@ TilePNB = 3
 InfoLoop = true
 TakePickaxe = true
 
-Istirahat = false
-JamTidur = {12, 14, 17, 19, 21}
+Istirahat = true
+JamTidur = {21}
 DelayTidur = 60
