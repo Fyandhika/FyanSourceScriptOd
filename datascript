@@ -1,5 +1,10 @@
 MatikanBot = false
 
+Valentine's Goodies
+hargapack = 7500 -- HARGA PACK
+namapack = "valentines" -- NAMA PACK
+iditempack = {3402, 5664}
+
 RingkasWorldName = true
 targetinfo = 3
 TilePNB = 3
