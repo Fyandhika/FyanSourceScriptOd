@@ -12,5 +12,3 @@ TakePickaxe = true
 Istirahat = true
 JamTidur = {16}
 DelayTidur = 60
-
-WorldPack = {"Fyanterlalunt"}
