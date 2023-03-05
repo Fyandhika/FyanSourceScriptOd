@@ -10,5 +10,5 @@ InfoLoop = true
 TakePickaxe = true
 
 Istirahat = true
-JamTidur = {00, 12, 14, 18, 21}
+JamTidur = {00, 18, 21}
 DelayTidur = 60
