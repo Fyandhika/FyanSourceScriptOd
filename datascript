@@ -4,8 +4,8 @@ namapack = "world_lock_10_pack" -- NAMA PACK
 iditempack = {242}
 
 RingkasWorldName = true
-targetinfo = 3
-TilePNB = 3
+targetinfo = 5
+TilePNB = 5
 InfoLoop = true
 TakePickaxe = true
 
