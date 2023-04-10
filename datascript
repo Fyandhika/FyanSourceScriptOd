@@ -3,18 +3,12 @@ hargapack = 20000-- HARGA PACK
 namapack = "world_lock_10_pack" -- NAMA PACK
 iditempack = {242}
 
-SpecialItem = {611} 
-minSpec = 20 
-WorldSpec = "fyantestrotasi"
-idWorldSpec = "asade"
-ID_AcuanDrop_Spec = 1422
-
 RingkasWorldName = true
 targetinfo = 5
-TilePNB = 5
+TilePNB = 3
 InfoLoop = true
 TakePickaxe = true
 
 Istirahat = true
 JamTidur = {22}
-DelayTidur = 120
+DelayTidur = 60
