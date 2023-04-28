@@ -5,10 +5,10 @@ iditempack = {242}
 
 RingkasWorldName = true
 targetinfo = 5
-TilePNB = 3
+TilePNB = 5
 InfoLoop = true
 TakePickaxe = true
 
 Istirahat = true
-JamTidur = {23}
+JamTidur = {4, 9, 15, 18, 23}
 DelayTidur = 60
