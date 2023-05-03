@@ -1,7 +1,7 @@
 MatikanBot = false
-hargapack = 45000
-namapack = "surg_value_pack"
-iditempack = {1270, 4316, 4310, 1258, 4312, 4318, 4308, 1260, 1268, 4314, 1264, 1266, 1262, 4296}
+hargapack = 20000
+namapack = "world_lock_10_pack"
+iditempack = {242}
 
 RingkasWorldName = true
 targetinfo = 5
