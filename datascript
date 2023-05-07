@@ -1,7 +1,7 @@
 MatikanBot = false
 hargapack = 45000
-namapack = "surg_value_pack"
-iditempack = {1270, 4316, 4310, 1258, 4312, 4318, 4308, 1260, 1268, 4314, 1264, 1266, 1262, 4296}
+namapack = "pinata_value_pack_blue"
+iditempack = {722, 9616, 13456}
 
 
 RingkasWorldName = true
