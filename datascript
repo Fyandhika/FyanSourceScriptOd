@@ -1,7 +1,7 @@
 MatikanBot = false
-hargapack = 20000
-namapack = "world_lock_10_pack"
-iditempack = {242}
+hargapack = 30000
+namapack = "pinata_value_pack_blue"
+iditempack = {722, 9616, 13456}
 
 RingkasWorldName = true
 targetinfo = 5
