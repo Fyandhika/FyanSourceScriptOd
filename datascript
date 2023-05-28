@@ -9,7 +9,3 @@ targetinfo = 5
 TilePNB = 3
 InfoLoop = true
 TakePickaxe = true
-
-Istirahat = true
-JamTidur = {4 ,9, 14 ,18 ,22}
-DelayTidur = 60
