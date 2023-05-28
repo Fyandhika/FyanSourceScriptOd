@@ -9,3 +9,6 @@ targetinfo = 5
 TilePNB = 3
 InfoLoop = true
 TakePickaxe = true
+
+Istirahat = true
+DelayTidur = 60
